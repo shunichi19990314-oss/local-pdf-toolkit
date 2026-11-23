@@ -74,10 +74,14 @@ Most "free PDF tools" ask you to **upload contracts, invoices and IDs to their s
 - 18 unit tests cover the range parser, sequence transforms and real pdf-lib round-trips (extract/reorder/rotate/merge) — `npm test`
 - Service worker (`public/sw.js`) is a small runtime cache — no build-time asset list to maintain
 
-## Related
+## Related projects
 
-From the same author: [OpenSCQ30 Web](https://github.com/shunichi19990314-oss/openscq30-web) (control earbuds from the browser) · [Web Serial Console](https://github.com/shunichi19990314-oss/web-serial-console) (serial terminal in the browser) — same philosophy: **your data stays in your browser**.
+- [pdf-lib](https://github.com/Hopding/pdf-lib) — the PDF engine used for merging, extracting, rotating and writing output (MIT)
+- [pdf.js](https://github.com/mozilla/pdf.js) — the renderer behind the page thumbnails (Apache-2.0)
+- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) — a self-hosted PDF toolbox, when you'd rather run your own server
 
-MIT License · PDF handling by [pdf-lib](https://github.com/Hopding/pdf-lib) (MIT) and [pdf.js](https://github.com/mozilla/pdf.js) (Apache-2.0)
+More tools from this account (same "your data stays in your browser" philosophy): [OpenSCQ30 Web](https://github.com/shunichi19990314-oss/openscq30-web) · [Web Serial Console](https://github.com/shunichi19990314-oss/web-serial-console)
+
+MIT License · © 2026 The Local PDF Toolkit Contributors · PDF handling by [pdf-lib](https://github.com/Hopding/pdf-lib) (MIT) and [pdf.js](https://github.com/mozilla/pdf.js) (Apache-2.0)
 
 ⭐ If this saved you an upload, a star helps others find it.
