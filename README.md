@@ -80,7 +80,7 @@ Most "free PDF tools" ask you to **upload contracts, invoices and IDs to their s
 - [pdf.js](https://github.com/mozilla/pdf.js) — the renderer behind the page thumbnails (Apache-2.0)
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) — a self-hosted PDF toolbox, when you'd rather run your own server
 
-More tools from this account (same "your data stays in your browser" philosophy): [OpenSCQ30 Web](https://github.com/shunichi19990314-oss/openscq30-web) · [Web Serial Console](https://github.com/shunichi19990314-oss/web-serial-console)
+More tools from this account (same "your data stays in your browser" philosophy): [OpenSCQ30 Web](../openscq30-web) · [Web Serial Console](../web-serial-console)
 
 MIT License · © 2026 The Local PDF Toolkit Contributors · PDF handling by [pdf-lib](https://github.com/Hopding/pdf-lib) (MIT) and [pdf.js](https://github.com/mozilla/pdf.js) (Apache-2.0)
 
