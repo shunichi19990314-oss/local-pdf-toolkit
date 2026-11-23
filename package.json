@@ -1,0 +1,23 @@
+{
+  "name": "local-pdf-toolkit",
+  "version": "0.1.0",
+  "description": "Merge, split, extract, rotate and reorganize PDFs 100% in your browser - files never leave your device. Offline-capable PWA. EN/JA UI.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "samples": "node scripts/make-samples.mjs"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "pdfjs-dist": "^4.10.38"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vite": "^5.4.21",
+    "vitest": "^2.1.8"
+  }
+}
