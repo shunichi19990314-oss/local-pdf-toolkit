@@ -1,0 +1,10 @@
+{
+  "name": "Local PDF Toolkit",
+  "short_name": "LocalPDF",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#00e5ff",
+  "description": "Merge, split, extract, rotate PDFs locally in your browser",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
